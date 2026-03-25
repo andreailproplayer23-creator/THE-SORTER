@@ -1,28 +1,32 @@
-# 🚀 THE SORTER [v1.0]
-
-**The Sorter** è un'utility desktop ad alte prestazioni progettata per eliminare il caos nelle cartelle. 
-Grazie al suo motore di **Smart Sorting**, organizza i file per categoria e cronologia (Anno/Mese) in modo chirurgico.
-
-### ✨ Features
-
-* 🕵️ **Sentinel Mode:** Monitoraggio in tempo reale. Appena scarichi un file, The Sorter lo intercetta e lo archivia.
-* 📅 **Smart Sorting:** Non solo divide per tipo, ma crea un archivio storico (es: `MEDIA/2026/Marzo/foto.jpg`).
-* 🛡️ **Anti-Duplicate:** Sistema di rinomina intelligente per non sovrascrivere mai i tuoi dati.
-* 💻 **Modern UI:** Interfaccia CustomTkinter in stile Neon-Green & Terminal.
+# 📂 THE SORTER [v1.0]
+> **"Il caos ha i secondi contati. Ordine chirurgico, automazione totale."**
 
 ---
 
-### 🛠️ Requisiti (Sorgente)
+### 🚀 OVERVIEW
+**The Sorter** è un'utility desktop ad alte prestazioni progettata per eliminare il disordine. Grazie al suo motore di **Smart Sorting**, organizza i tuoi file per categoria e cronologia (Anno/Mese) in modo completamente automatico.
 
-* Python 3.10+
-* `pip install watchdog customtkinter`
-
----
-
-### 📦 Download (Eseguibile)
-
-Vai nella sezione [Releases](https://github.com/andreailproplayer23-creator/THE-SORTER/releases) per scaricare la versione `.exe` che non richiede installazione di Python.
+### ✨ KEY FEATURES
+* **🕵️ SENTINEL MODE:** Monitoraggio in tempo reale. Appena scarichi un file, l'app lo intercetta e lo archivia istantaneamente.
+* **📅 SMART SORTING:** Crea un archivio storico perfetto (es: `MEDIA/2026/Marzo/foto.jpg`).
+* **🛡️ ANTI-DUPLICATE:** Sistema di protezione che rinomina i file per non sovrascrivere mai i tuoi dati.
+* **💻 MODERN UI:** Interfaccia CustomTkinter con estetica **Cyber Neon-Green**.
 
 ---
 
-*Created by [Andy23]*
+### 💾 DOWNLOAD (Eseguibile)
+Non serve installare Python per usare l'app. Scarica l'ultima versione compilata qui:
+
+👉 **[SCARICA THE SORTER v1.0](https://github.com/andreailproplayer23-creator/THE-SORTER/releases)**
+
+---
+
+### 🛠️ REQUISITI (Sorgente)
+Se vuoi modificare o eseguire il codice sorgente:
+* **Python 3.10+**
+* Dipendenze: `pip install watchdog customtkinter`
+
+---
+
+### 👨‍💻 CREATED BY
+*Developed with ❤️ by [Andy23](https://github.com/andreailproplayer23-creator)*
